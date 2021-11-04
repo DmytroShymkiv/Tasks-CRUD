@@ -1,7 +1,7 @@
 1. "npm install"
 2. Start project "npm start" or "npm run dev"
 
-##EndPoints
+### EndPoints
 http://localhost:5000/task/all Get all tasks
 
 http://localhost:5000/task/create Create task
